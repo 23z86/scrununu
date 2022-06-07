@@ -1,8 +1,5 @@
 # scrununu
-Web scrapper for kununu.com
-State: in development
-Imports: sys, lxml, os, requests
-OS: Linux
+Web scrapper for kununu.com in development.
 
 file functions.py
 ------------------
